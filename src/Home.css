@@ -1,0 +1,20 @@
+.home{
+    height: auto;
+    width: auto;
+    background-image: linear-gradient(to left bottom, #e90000, #bf000b, #95000e, #6c000a, #460000);
+}
+.pizza-img{
+    width: 70vh;
+    height:auto;
+    filter: drop-shadow( 4px 10px 10px rgba(0,0,0,0.3));
+    filter: brightness(4px 10px 10px);
+    
+}
+.heading_btn-1{
+    height: 10px;
+    width: 18vh;
+}
+.explore{
+    background-color: rgb(173, 104, 0);
+
+}
